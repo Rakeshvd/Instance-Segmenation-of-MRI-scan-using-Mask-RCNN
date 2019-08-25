@@ -7,6 +7,10 @@ https://github.com/matterport/Mask_RCNN
 * customImages contains train, val and test(predict) datasets.
 * rcnn folder contains pre-configurations for the mask rcnn model(Modify it according to your model).
 * custom.py is the main file containing the implementation of model.
+* Use reference link to understand training.
+* Once the model is trained the trained model files will be saved under folder logs(which will be created after training).
+* Use these log files to visualize the training graphs using tensorboard.
+
 
 inspect_custom_data.ipynb: use this to visulaize mask.
 inspect_custom_model.ipynb:use this to validate your model.
