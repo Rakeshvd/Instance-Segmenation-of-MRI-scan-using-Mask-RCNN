@@ -4,9 +4,9 @@ This project presents an implementation of semantic segmentation to detect brain
 This is based on original Mask RCNN implementaion :
 https://github.com/matterport/Mask_RCNN
 
-1.)customImages contains train, val and test(predict) datasets.
-2.)mrcnn folder contains pre-configurations for the mask rcnn model(Modify it according to your model).
-3.)custom.py is the main file containing the implementation of model.
+* customImages contains train, val and test(predict) datasets.
+* rcnn folder contains pre-configurations for the mask rcnn model(Modify it according to your model).
+* custom.py is the main file containing the implementation of model.
 
 inspect_custom_data.ipynb: use this to visulaize mask.
 inspect_custom_model.ipynb:use this to validate your model.
