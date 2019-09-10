@@ -12,9 +12,9 @@ https://github.com/matterport/Mask_RCNN
 * Use these log files to visualize the training graphs using tensorboard.
 
 
-inspect_custom_data.ipynb: use this to visulaize mask.
-inspect_custom_model.ipynb:use this to validate your model.
-inspect_custom_weights.ipynb: use this to run and test your model.
+final_test.ipynb is used to test your model on test data
+My test data included equally 56 distributed images
+The accuracy was: 74%
 
 I have used via tool(ver 1.6.0) to get the annotations in the format needed for the model.
 
