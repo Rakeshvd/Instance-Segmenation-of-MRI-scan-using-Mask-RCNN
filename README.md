@@ -4,11 +4,11 @@ This project presents an implementation of Instance segmentation to detect brain
 This is based on original Mask RCNN implementaion :
 https://github.com/matterport/Mask_RCNN
 
-* customImages contains train, val and test(predict) datasets.
-* rcnn folder contains pre-configurations for the mask rcnn model(Modify it according to your model).
-* custom.py is the main file containing the implementation of model.
+* *customImages* contains train, val and test(predict) datasets.
+* *rcnn* folder contains pre-configurations for the mask rcnn model(Modify it according to your model).
+* *custom.py* is the main file containing the implementation of model.
 * Use reference link to understand training.
-* Once the model is trained the trained model files will be saved under folder logs(which will be created after training).
+* Once the model is trained the trained model files will be saved under folder *logs*(which will be created after training).
 * Use these log files to visualize the training graphs using tensorboard.
 
 
