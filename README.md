@@ -12,8 +12,8 @@ https://github.com/matterport/Mask_RCNN
 * Use these log files to visualize the training graphs using tensorboard.
 
 
-final_test.ipynb is used to test your model on test data
-My test data included equally 56 distributed images
+final_test.ipynb is used to test your model on test data.
+My test data included 56 equally distributed images
 The accuracy was: 74%
 
 I have used via tool(ver 1.6.0) to get the annotations in the format needed for the model.
