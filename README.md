@@ -1,4 +1,6 @@
 # Instance-Segmenation-of-MRI-scan-using-Mask-RCNN
+## ONGOING PROJECT
+
 This project presents an implementation of Instance segmentation to detect brain tumor from MRI scan.
 
 This is based on original Mask RCNN implementaion :
@@ -13,8 +15,10 @@ https://github.com/matterport/Mask_RCNN
 
 
 final_test.ipynb is used to test your model on test data.
+
 My test data included 56 equally distributed images
-The accuracy was: 74%
+
+LatestTest results: final_test_latest.ipynb
 
 I have used via tool(ver 1.6.0) to get the annotations in the format needed for the model.
 
